@@ -22,7 +22,11 @@ Win/Lose Messages: The game announces whether the user or the computer wins each
 # How to Play
 
 Clone or download the repository to your local machine.
+
 Run the Python script rock_paper_scissors.py.
+
 When prompted, type 'R' for Rock, 'P' for Paper, 'S' for Scissors, or 'E' to exit the game.
+
 The game will display the computer's choice and the result of the round (win, lose, or tie).
+
 Continue playing until you choose to exit by typing 'E'.
